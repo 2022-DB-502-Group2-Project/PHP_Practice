@@ -39,4 +39,11 @@ printvariableinfo($exfloat);
 $exarr[1] = "index 1 element";
 printvariableinfo($exarr);
 
+// 참고로 '.' 연산자는 변수간의 덧셈이랑 동일한 역할을 한다. 예를 들면 아래와 같다
+
+$intval1 = 20;
+$strval1 = "strvalue";
+
+echo $strval1." + ".$intval1;
+
 ?>
