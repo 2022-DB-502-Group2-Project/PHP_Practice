@@ -1,0 +1,3 @@
+this is example file
+this is textfile
+php file testing

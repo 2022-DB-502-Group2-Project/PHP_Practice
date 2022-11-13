@@ -77,5 +77,4 @@ echo date_default_timezone_get()."\n";
 date_default_timezone_set("Asia/Seoul")."\n";
 echo date_default_timezone_get()."\n";
 echo date("Y/m/d H:i:s (D)")."\n";
-
 ?>
