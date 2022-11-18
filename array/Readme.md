@@ -1,0 +1,2 @@
+- PHP Array 관련 함수는 아래 링크 참조
+    - https://www.php.net/manual/en/ref.array.php
